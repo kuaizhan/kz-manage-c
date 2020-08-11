@@ -1,0 +1,26 @@
+{
+    "appid": "21687163",
+    "compilation-args": {
+        "common": {
+            "ignoreSourceMap": false
+        }
+    },
+    "host": "baiduboxapp",
+    "preview": {
+        "packageId": 554439
+    },
+    "projectname": "kz-manage-baidu",
+    "publish": {
+        "version": "1.0.1"
+    },
+    "setting": {
+        "urlCheck": true
+    },
+    "smartProgramRoot": "dist",
+    "swan": {
+        "baiduboxapp": {
+            "swanJsVersion": "3.190.255-rc",
+            "extensionJsVersion": "100.14.255"
+        }
+    }
+}
